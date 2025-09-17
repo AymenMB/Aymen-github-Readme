@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/followers/AymenMB?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<br><br><br><br>
+<br>
 
 <img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 20px;" />
 
@@ -68,7 +68,7 @@ Smart manufacturing solutions with predictive analytics
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AymenMB/AymenMB/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AymenMB/Aymen-github-Readme/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🛠️ Tech Arsenal
