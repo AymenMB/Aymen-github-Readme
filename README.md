@@ -5,7 +5,7 @@
 <br><br>
 
 <h1 align="center">
-  <img src="./assets/logo.png" alt="Aymen Logo" width="30" height="20" style="vertical-align: middle;">
+  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" style="vertical-align: middle;">
   Welcome! I'm <a href="https://aymen-portfolio-sage.vercel.app/">Aymen Mabrouk</a> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/followers/AymenMB?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<br><br><br>
+<br><br>
 
 <img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 20px;" />
 
@@ -35,7 +35,7 @@
 🎓 **Master's in Software Engineering** at ISIMM  
 💼 **AI Automation Engineer** at ByteClick Germany  
 🔬 **5+ years in Tech Industry** with published research  
-🎯 **Expert in Prompt Engineering & Context Engineering**  
+🎯 **Expert in Prompt Engineering & Context Engineering**
 
 ### 💡 What I Do
 
@@ -62,13 +62,19 @@ Smart manufacturing solutions with predictive analytics
 **🚀 Advanced AI Automation** with LangChain, CrewAI, and AutoGen  
 **📄 Intelligent Document Processing** using OCR, NLP, and vision models  
 **🔗 N8N Enterprise Workflows** for business process automation  
-**🌊 Vector Databases & RAG Systems** for enterprise knowledge management  
+**🌊 Vector Databases & RAG Systems** for enterprise knowledge management
 
 <br clear="right"/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AymenMB/AymenMB/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🛠️ Tech Arsenal
 
 ### 🧠 AI/ML & GenAI
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -79,6 +85,7 @@ Smart manufacturing solutions with predictive analytics
 </div>
 
 ### 🔄 Automation & Workflow
+
 <div align="center">
   <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
@@ -88,6 +95,7 @@ Smart manufacturing solutions with predictive analytics
 </div>
 
 ### 🛠️ Development Tools & IDEs
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
   <img src="https://img.shields.io/badge/VS%20Code%20Insiders-1F1F1F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
@@ -96,6 +104,7 @@ Smart manufacturing solutions with predictive analytics
 </div>
 
 ### 📋 Organization & Productivity Tools
+
 <div align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -116,6 +125,7 @@ Smart manufacturing solutions with predictive analytics
 </div>
 
 ### 🔧 DevOps & Cloud
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp,azure" />
 </div>
@@ -124,11 +134,6 @@ Smart manufacturing solutions with predictive analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenMB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AymenMB/AymenMB/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 Featured Projects
