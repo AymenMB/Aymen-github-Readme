@@ -25,7 +25,7 @@
 
 <br>
 
-<img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 20px;" />
+<img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 50px;" />
 
 ## 🚀 About Me
 
