@@ -16,14 +16,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&random=false&width=900&height=80&lines=AI+Engineer+%26+Automation+Specialist+🤖;GenAI+%26+LLMs+Expert+🧠;N8N+Workflow+Automation+🔄;Data+Science+Engineer+📊;Full-Stack+Developer+🚀" alt="Typing SVG" />
 </p>
 
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AymenMB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AymenMB?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<br>
+
 
 ## 🚀 About Me
 <img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 50px;" />
