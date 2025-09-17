@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">
-  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" style="vertical-align: middle;">
+  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="20" style="vertical-align: middle;">
   Welcome! I'm <a href="https://aymen-portfolio-sage.vercel.app/">Aymen Mabrouk</a> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
