@@ -5,9 +5,9 @@
 <br><br>
 
 <h1 align="center">
-  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" style="vertical-align: middle;">
+  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" style="vertical-align: text-bottom; margin-right: 10px;">
   Welcome! I'm <a href="https://aymen-portfolio-sage.vercel.app/">Aymen Mabrouk</a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: text-bottom;">
 </h1>
 
 <br>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/followers/AymenMB?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 20px;" />
 
@@ -140,9 +140,21 @@ Smart manufacturing solutions with predictive analytics
 
 <div align="center">
 
-### 🚀 Explore My Work
+### 🚀 Explore My Amazing Work
 
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_Live_Site-00A3FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aymen-portfolio-sage.vercel.app/)
+<div style="margin: 20px 0;">
+  <a href="https://aymen-portfolio-sage.vercel.app/">
+    <img src="https://img.shields.io/badge/�_CLICK_ME!-See_My_Portfolio_Live-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF1744&color=4CAF50&animationDuration=1s" alt="Click to see portfolio" style="animation: pulse 2s infinite;" />
+  </a>
+  <br><br>
+  <a href="https://aymen-portfolio-sage.vercel.app/">
+    <img src="https://img.shields.io/badge/✨_INTERACTIVE_DEMO-Experience_My_Projects-00D4AA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00BCD4&color=FF9800" alt="Interactive Demo" />
+  </a>
+  <br><br>
+  <a href="https://aymen-portfolio-sage.vercel.app/">
+    <img src="https://img.shields.io/badge/🔥_DON'T_MISS_OUT-Explore_Live_Projects-FF4081?style=for-the-badge&logo=fire&logoColor=white&labelColor=E91E63&color=9C27B0" alt="Don't miss out" />
+  </a>
+</div>
 
 </div>
 
