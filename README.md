@@ -2,7 +2,7 @@
   <img src="./assets/cover.png" alt="Aymen Mabrouk - AI Engineer & Automation Specialist" width="100%" style="border-radius: 15px;">
 </div>
 
-<br>
+<br><br>
 
 <h1 align="center">
   <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" style="vertical-align: middle;">
@@ -10,25 +10,32 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00A3FF&center=true&vCenter=true&random=false&width=900&height=80&lines=AI+Engineer+%26+Automation+Specialist+🤖;GenAI+%26+LLMs+Expert+🧠;N8N+Workflow+Automation+🔄;Data+Science+Engineer+📊;Full-Stack+Developer+🚀" alt="Typing SVG" />
 </p>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AymenMB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AymenMB?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<br>
+<br><br><br>
 
-<img align="right" height="300px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 20px;" />
 
 ## 🚀 About Me
+
+<br>
 
 🎓 **Data Science Engineering Student** at Polytechnique Sousse  
 🎓 **Master's in Software Engineering** at ISIMM  
 💼 **AI Automation Engineer** at ByteClick Germany  
 🔬 **5+ years in Tech Industry** with published research  
+🎯 **Expert in Prompt Engineering & Context Engineering**  
 
 ### 💡 What I Do
 
@@ -67,6 +74,7 @@ Smart manufacturing solutions with predictive analytics
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic-8B5A3C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
@@ -79,19 +87,37 @@ Smart manufacturing solutions with predictive analytics
   <img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge&logo=chromatic&logoColor=white" />
 </div>
 
+### 🛠️ Development Tools & IDEs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/VS%20Code%20Insiders-1F1F1F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logoColor=white" />
+</div>
+
+### 📋 Organization & Productivity Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00D4AA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20Engineering-FF6B6B?style=for-the-badge&logoColor=white" />
+</div>
+
 ### 💻 Frontend & Mobile
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,flutter,dart,tailwind,html,css,javascript" />
 </div>
 
 ### ⚙️ Backend & Database
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgresql,mongodb,firebase,supabase,redis" />
 </div>
 
 ### 🔧 DevOps & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp,azure" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -100,12 +126,9 @@ Smart manufacturing solutions with predictive analytics
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenMB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
+<!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AymenMB/Aymen-github-Readme/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AymenMB/Aymen-github-Readme/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/AymenMB/Aymen-github-Readme/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/AymenMB/AymenMB/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 Featured Projects
@@ -118,13 +141,13 @@ Smart manufacturing solutions with predictive analytics
 
 </div>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Automation Workflows** | Enterprise N8N workflows with LLM integration for intelligent document processing | N8N, OpenAI API, LangChain, Python |
-| 🧠 **GenAI Knowledge Assistant** | RAG-powered AI assistant with vector search and multi-model support | LangChain, Pinecone, OpenAI, FastAPI |
-| 🎾 **Sports Analytics Platform** | AI-powered tennis analysis using computer vision and deep learning | Python, OpenCV, TensorFlow, YOLOv8 |
-| 🚗 **Smart Parking System** | IoT-enabled parking management with real-time analytics | Flutter, Next.js, PostgreSQL, IoT |
-| 🔍 **License Plate Recognition** | High-accuracy vehicle identification system using advanced OCR | OpenVINO, FastAPI, Docker, Redis |
+| Project                          | Description                                                                       | Tech Stack                           |
+| -------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| 🤖 **AI Automation Workflows**   | Enterprise N8N workflows with LLM integration for intelligent document processing | N8N, OpenAI API, LangChain, Python   |
+| 🧠 **GenAI Knowledge Assistant** | RAG-powered AI assistant with vector search and multi-model support               | LangChain, Pinecone, OpenAI, FastAPI |
+| 🎾 **Sports Analytics Platform** | AI-powered tennis analysis using computer vision and deep learning                | Python, OpenCV, TensorFlow, YOLOv8   |
+| 🚗 **Smart Parking System**      | IoT-enabled parking management with real-time analytics                           | Flutter, Next.js, PostgreSQL, IoT    |
+| 🔍 **License Plate Recognition** | High-accuracy vehicle identification system using advanced OCR                    | OpenVINO, FastAPI, Docker, Redis     |
 
 ## 🎯 Current Focus
 
@@ -136,14 +159,13 @@ Smart manufacturing solutions with predictive analytics
 **📄 Intelligent Document AI** using multimodal LLMs and OCR integration  
 **🔄 N8N Enterprise Solutions** for business process automation  
 **🌊 Vector-Powered Applications** with RAG and semantic search  
-**🏭 Industrial AI Solutions** combining IoT data with predictive analytics  
+**🏭 Industrial AI Solutions** combining IoT data with predictive analytics
 
 </div>
 
 ## 💼 Professional Journey
 
-`
-🚀 2025-Present  │ AI Automation Engineer @ ByteClick Germany
+`🚀 2025-Present  │ AI Automation Engineer @ ByteClick Germany
                  │ • GenAI & LLM-powered automation workflows
                  │ • N8N enterprise workflow development
                  │ • RAG systems & vector database implementation
@@ -160,8 +182,7 @@ Smart manufacturing solutions with predictive analytics
                  │
 🎓 2023-2025     │ Master's - Software Engineering @ ISIMM
                  │ • Full-stack development & system architecture
-                 │ • Agile methodologies & project leadership
-`
+                 │ • Agile methodologies & project leadership`
 
 ## 🏆 Achievements & Recognition
 
@@ -170,7 +191,7 @@ Smart manufacturing solutions with predictive analytics
 🎯 **98.5% Accuracy**: Achieved industry-leading performance in license plate recognition  
 🏭 **Industrial Impact**: Optimized manufacturing processes through predictive analytics  
 🚀 **5+ Years Experience**: Proven track record in delivering scalable AI solutions  
-🌟 **Open Source Contributor**: Active in the AI/ML community with multiple contributions  
+🌟 **Open Source Contributor**: Active in the AI/ML community with multiple contributions
 
 ## 🌐 Let's Connect
 
@@ -179,7 +200,7 @@ Smart manufacturing solutions with predictive analytics
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A3FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aymen-portfolio-sage.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-mabrouk-91102b23b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AymenMB)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymen.mabrouk@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymenmabrouk375@gmail.com)
 
 </div>
 
