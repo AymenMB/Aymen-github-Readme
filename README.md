@@ -5,7 +5,7 @@
 <br><br>
 
 <h1 align="center">
-  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" style="vertical-align: text-bottom; margin-right: 10px;">
+  <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" >
   Welcome! I'm <a href="https://aymen-portfolio-sage.vercel.app/">Aymen Mabrouk</a> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: text-bottom;">
 </h1>
@@ -25,9 +25,8 @@
 
 <br>
 
-<img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 50px;" />
-
 ## 🚀 About Me
+<img align="right" height="280px" alt="AI Automation GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="margin-top: 50px;" />
 
 <br>
 
